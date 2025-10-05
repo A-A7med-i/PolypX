@@ -42,7 +42,7 @@ It leverages the **DeepLab v3+ architecture** to accurately detect and outline p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/PolypX.git
+   git clone https://github.com/A-A7med-i/PolypX.git
    cd PolypX
    ```
 
@@ -113,10 +113,11 @@ PolypX/
 │
 ├── docs/                            # Documentation
 │   ├── 01_pipeline_overview.md
-│   ├── 02_preprocessing.md
-│   ├── 03_model_architecture.md
-│   ├── 04_training_loss.md
-│   └── 05_pipeline_results.md
+│   ├── 02_model_architecture.md
+│   ├── 03_loss.md
+│   ├── 04_metrics.md
+│   ├── 05_training.md
+│   └── 06_pipeline_results.md
 │
 ├── src/                             # Source code
 │   ├── config/                      # Configurations
