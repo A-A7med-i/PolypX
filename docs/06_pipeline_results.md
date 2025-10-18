@@ -38,8 +38,8 @@ Representative predictions compared against **Ground Truth (GT):**
 
 | Prediction | Prediction |
 |------------|------------|
-| ![Pred1](https://i.postimg.cc/rFYXTFKS/prediction-sample-1.png) | ![Pred2](https://i.postimg.cc/rFYXTFKS/prediction-sample-2.png) |
-| ![Pred3](https://i.postimg.cc/BQw93QXp/prediction-sample-3.png) | ![Pred4](https://i.postimg.cc/BQw93QXp/prediction-sample-4.png) |
+| ![Pred1](https://i.postimg.cc/xCqvQ1TR/prediction-sample-1.png) | ![Pred2](https://i.postimg.cc/qvLyC3NL/prediction-sample-2.png) |
+| ![Pred3](https://i.postimg.cc/1RwgqqTt/prediction-sample-3.png) | ![Pred4](https://i.postimg.cc/fTMbSgmX/prediction-sample-4.png) |
 
 ✅ The model demonstrates **accurate polyp localization**, with **minimal false positives** and **high overlap** with ground truth masks.
 
